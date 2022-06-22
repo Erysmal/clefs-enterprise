@@ -1,0 +1,58 @@
+@media{
+  body{
+    background-color: white;
+  }
+  h1{
+    font-size:13vw;
+    text-align:center;
+    color:#4b85e1;
+  }
+  td{
+    font-size:7vw;
+  }
+  input[type=text], select, textarea{
+    width: 100.5%;
+    padding: 5.5%;
+    border:1px solid black;
+    box-sizing: border-box;
+    resize: vertical;
+    font-size: 4vw;
+    background-color:LightGrey;
+    color: black;
+    font-family: Sans-Serif;
+    font-weight: 900;
+  }
+  input[type=password], select, textarea{
+    width: 100%;
+    padding: 5%;
+    border:1px solid black;
+    box-sizing: border-box;
+    resize: vertical;
+    font-size: 4vw;
+    background-color:LightGrey;
+    color: black;
+    font-family: Sans-Serif;
+    font-weight: 900;
+  }
+  input[type= submit]{
+    background-color:#3688d8;
+    color:white;
+    width:85%;
+    padding:20px;
+    font-size: 4.5vw;
+    font-family: Sans-Serif;
+    font-weight: bold;
+  } 
+  tt{
+    font-size:4.5vw;
+    background-color:#d9ff95;
+    padding:9px;
+    border-radius:10px;
+    text-align:center;
+    color: black;
+  }
+  p{
+    font-size:4.5vw;
+  }
+  
+}

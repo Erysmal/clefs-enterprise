@@ -1,0 +1,27 @@
+@media{
+   body{
+    font-family:Arial;
+    background:#001e4e;
+    color:white;
+  }
+  .Welcome{
+    color:#56f921;
+    font-siz:27px;
+    font-family:Serif;
+  }
+  h1{
+    font-family:cursive;
+    color:yellow;
+    font-size:10vw;
+  }
+  h3{
+    font-size:7vw;
+  }
+  p{
+    font-size:6vw;
+  }
+  .Sign{
+    font-size:5vw;
+    font-family:Times New Roman;
+  }
+}
